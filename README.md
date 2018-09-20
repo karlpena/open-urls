@@ -14,3 +14,6 @@ Open multiple URLs, into new tabs of a web browser, from a file
 # updates
 - If you adapt this to run on other systems/browsers, feel free to submit the update and I will review and/or 
 integrate it
+
+# license
+- GPLv3
