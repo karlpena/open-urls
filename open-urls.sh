@@ -1,6 +1,5 @@
 #!/bin/bash
-# written deliberately for OSX, but if you want to adapt it for the *nixes, feel free to submit your additions
-
+# written for OSX (and Chrome), but if you want to adapt it for the *nixes (or other browsers, feel free to submit updates)
 while read line; do
-	open -a "Google Chrome.app"  "$line"
+	open -a "Google Chrome.app" "$line"
 done < urls.txt
