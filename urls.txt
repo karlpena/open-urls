@@ -1,5 +1,4 @@
 # Replace these URLs with the ones you wish to open
-
 https://www.google.com/search\?\&q=blue
 https://www.google.com/search\?\&q=green
 https://www.google.com/search\?\&q=red
