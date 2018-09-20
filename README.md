@@ -7,7 +7,7 @@ Open multiple URLs, into new tabs of a web browser, from a file
 - Internet connectivity
 
 # instructions 
-1. Once you clone the repo, edit urls.txt to be the list of urls you wish to open
+1. Once you clone the repo, edit urls.txt to be the list of urls you wish to open (remove blank lines)
 2. Make sure you are connected to the Interwebs
 3. Run ./open-urls.sh
 
