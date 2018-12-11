@@ -1,6 +1,6 @@
 # Replace these URLs with the ones you wish to open
-https://www.google.com/search\?\&q=blue
-https://www.google.com/search\?\&q=green
-https://www.google.com/search\?\&q=red
-https://www.google.com/search\?\&q=yellow
-https://www.google.com/search\?\&q=violet
+https://www.google.com/search\?\&q=blah
+https://www.google.com/search\?\&q=garnish
+https://www.google.com/search\?\&q=dur
+https://www.google.com/search\?\&q=bullows
+https://www.google.com/search\?\&q=peaceful
