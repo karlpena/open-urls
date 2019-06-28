@@ -9,8 +9,10 @@ Open multiple URLs, into new tabs of a web browser, from a file
 # instructions 
 1. Once you clone the repo, edit urls.txt to be the list of urls you wish to open (remove blank lines)
 2. Make sure you are connected to the Interwebs
-3
+3.
+
     a. If you run OSX: ./open-urls-osx.sh
+
     b. If you run GNU/Linux: run ./open-urls-gnulinux.sh
 
 # updates
