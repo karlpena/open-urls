@@ -1,7 +1,7 @@
 ##              Copyright (c) 2018 Karl G. Peña
 
 
-## open-urls
+# open-urls
 Open multiple URLs, into new tabs of a web browser, from a file
 
 ## requirements
