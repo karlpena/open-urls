@@ -1,6 +1,4 @@
 #              Copyright (c) 2018 Karl G. Peña
-#                GNU GENERAL PUBLIC LICENSE
-#                   Version 3, 29 June 2007
 
 
 ## open-urls
@@ -26,8 +24,8 @@ integrate it. Thanks!
 ## license
 - GPLv3
 
-# copyright 
+## copyright 
 - Copyright © Karl Pena 2018, 2019, 2020, 2021, 2022, 2023
 
-# crediting
+## crediting
 - Make sure to reference the author and project URL in any copies or derivative works: https://github.com/karlpena/open-urls
