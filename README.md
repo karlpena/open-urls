@@ -25,7 +25,7 @@ integrate it. Thanks!
 - GPLv3
 
 ## copyright 
-- Copyright © Karl Pena 2018, 2019, 2020, 2021, 2022, 2023, 2024
+- Copyright © Karl Pena 2018 - present
 
 ## crediting
 - Make sure to reference the author and project URL in any copies or derivative works: https://github.com/karlpena/open-urls
